@@ -29,9 +29,9 @@ public static class TriviaGame
             .ToString()
             .Normalize(NormalizationForm.FormC);
     }
-    public static string PlayGame()
+    public static void PlayGame()
     {
-        Dictionary<string, List<string>> countryCapitals = new Dictionary<string, List<string>>()
+        var countryCapitals = new Dictionary<string, List<string>>
         {
             ["Algeria"] = new List<string>{"Algiers"},["Angola"] = new List<string>{"Luanda"},
             ["Benin"] = new List<string>{"Porto-Novo"},["Botswana"] = new List<string>{"Gaborone"},
@@ -100,6 +100,5 @@ public static class TriviaGame
         }
 
         Console.WriteLine($"That's the end of the quiz. Your final score is {score} out of {countryCapitals.Count}");
-        return null;
     }
 }

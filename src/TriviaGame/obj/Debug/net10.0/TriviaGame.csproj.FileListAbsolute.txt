@@ -12,3 +12,4 @@ C:\Users\wrens\Documents\Projects\trivia-game\src\TriviaGame\obj\Debug\net10.0\r
 C:\Users\wrens\Documents\Projects\trivia-game\src\TriviaGame\obj\Debug\net10.0\TriviaGame.pdb
 C:\Users\wrens\Documents\Projects\trivia-game\src\TriviaGame\obj\Debug\net10.0\TriviaGame.genruntimeconfig.cache
 C:\Users\wrens\Documents\Projects\trivia-game\src\TriviaGame\obj\Debug\net10.0\ref\TriviaGame.dll
+C:\Users\wrens\Documents\Projects\trivia-game\src\TriviaGame\obj\Debug\net10.0\TriviaGame.sourcelink.json
