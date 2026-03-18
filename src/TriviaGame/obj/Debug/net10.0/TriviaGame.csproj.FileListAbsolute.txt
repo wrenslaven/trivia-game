@@ -1,0 +1,14 @@
+C:\Users\wrens\Documents\Projects\trivia-game\src\TriviaGame\bin\Debug\net10.0\TriviaGame.exe
+C:\Users\wrens\Documents\Projects\trivia-game\src\TriviaGame\bin\Debug\net10.0\TriviaGame.deps.json
+C:\Users\wrens\Documents\Projects\trivia-game\src\TriviaGame\bin\Debug\net10.0\TriviaGame.runtimeconfig.json
+C:\Users\wrens\Documents\Projects\trivia-game\src\TriviaGame\bin\Debug\net10.0\TriviaGame.dll
+C:\Users\wrens\Documents\Projects\trivia-game\src\TriviaGame\bin\Debug\net10.0\TriviaGame.pdb
+C:\Users\wrens\Documents\Projects\trivia-game\src\TriviaGame\obj\Debug\net10.0\TriviaGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wrens\Documents\Projects\trivia-game\src\TriviaGame\obj\Debug\net10.0\TriviaGame.AssemblyInfoInputs.cache
+C:\Users\wrens\Documents\Projects\trivia-game\src\TriviaGame\obj\Debug\net10.0\TriviaGame.AssemblyInfo.cs
+C:\Users\wrens\Documents\Projects\trivia-game\src\TriviaGame\obj\Debug\net10.0\TriviaGame.csproj.CoreCompileInputs.cache
+C:\Users\wrens\Documents\Projects\trivia-game\src\TriviaGame\obj\Debug\net10.0\TriviaGame.dll
+C:\Users\wrens\Documents\Projects\trivia-game\src\TriviaGame\obj\Debug\net10.0\refint\TriviaGame.dll
+C:\Users\wrens\Documents\Projects\trivia-game\src\TriviaGame\obj\Debug\net10.0\TriviaGame.pdb
+C:\Users\wrens\Documents\Projects\trivia-game\src\TriviaGame\obj\Debug\net10.0\TriviaGame.genruntimeconfig.cache
+C:\Users\wrens\Documents\Projects\trivia-game\src\TriviaGame\obj\Debug\net10.0\ref\TriviaGame.dll
